@@ -11,16 +11,16 @@
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
     <!-- Own bootstrap link -->
-    <link rel="stylesheet" href="{{ URL::asset('css/style.css') }}" />
+    <link rel="stylesheet" href="{{ URL::asset('assets/css/style.css') }}" />
   
   </head>
   <body>
     
    
-    <header class="p-5 mb-5 bg-dark text-white">
+    <header class="p-5 mb-5 bg-white text-dark">
       <div class="container">
         <div class="row">
-          <div class="col-md-3 bg-white"><img   /></div>
+          <div class="col-md-3 shift-logo"><img src="{{ URL::asset('assets/images/mowali.png')}}" alt="logo-mowali"/></div>
         </div>
       </div>
 
