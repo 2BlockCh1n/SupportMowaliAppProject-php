@@ -18,7 +18,7 @@
     
    
     <header class="p-5 mb-5 bg-white text-dark">
-      <div class="container">
+      <div class="container bg-dark">
         <div class="row">
           <div class="col-md-3 shift-logo"><img src="{{ URL::asset('assets/images/mowali.png')}}" alt="logo-mowali"/></div>
           <div class="col-xs-offset-1 col-md-4  font-italic font-weight-bold"><h4>transforming the financial landscape...</h4></div>
