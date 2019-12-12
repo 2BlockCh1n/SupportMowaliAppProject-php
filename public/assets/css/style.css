@@ -5,3 +5,7 @@ body {
 .shift-logo {
     padding-left: 30px;
 }
+
+.mwl-nav {
+    background-color: rgb(80, 72, 72);
+}
