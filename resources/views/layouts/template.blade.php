@@ -28,7 +28,7 @@
       </div>
     </header>
     <div class="container" class=" mwl-nav">
-      <nav class="navbar navbar-light bg-light rounded" style="background-color: #e3f2fd;" >
+      <nav class="navbar navbar-light rounded" style="background-color: #e3f2fd;" >
         <ul class="nav nav-pills">
           <li class="nav-item">
             <a class="nav-link active" href="#">Active</a>
