@@ -21,6 +21,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-3 shift-logo"><img src="{{ URL::asset('assets/images/mowali.png')}}" alt="logo-mowali"/></div>
+          <div class="col-md-offset-3 col-md-4 font-italic font-weight-bold"><h4>transforming the financial landscape...</h4></div>
         </div>
       </div>
 
