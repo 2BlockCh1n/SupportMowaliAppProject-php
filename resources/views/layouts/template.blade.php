@@ -11,6 +11,7 @@
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
     <!-- Own bootstrap link -->
+    <link rel="stylesheet" href="{{ URL::asset('css/style.css') }}" />
   
   </head>
   <body>
@@ -25,7 +26,7 @@
 
     </header>
       
-    @yield('contenu')
+    <!--@yield('contenu')-->
 
     <!-------------------------------------------------------------------------------------------------->
     <!-- BOOTSTRAP JQUERY AND POPPER CDN --------------------------------------------------------------->
