@@ -26,8 +26,25 @@
           <div class="col-md-12  font-italic font-weight-bold"><marquee><h4>transforming the financial landscape...</h4></marquee></div>
         </div>
       </div>
-
     </header>
+    <div class="container">
+      <nav class="navbar navbar-light" >
+        <ul class="nav nav-pills">
+          <li class="nav-item">
+            <a class="nav-link active" href="#">Active</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Link</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Link</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+          </li>
+        </ul>
+      <nav>
+    </div>
       
     <!--@yield('contenu')-->
 
