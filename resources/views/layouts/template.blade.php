@@ -28,7 +28,7 @@
       </div>
     </header>
     <div class="container">
-      <nav class="navbar navbar-light" >
+      <nav class="navbar navbar-light bg-light" >
         <ul class="nav nav-pills">
           <li class="nav-item">
             <a class="nav-link active" href="#">Active</a>
