@@ -27,8 +27,8 @@
         </div>
       </div>
     </header>
-    <div class="container">
-      <nav class="navbar navbar-light bg-light mwl-nav rounded" >
+    <div class="container" class=" mwl-nav">
+      <nav class="navbar navbar-light bg-light rounded" >
         <ul class="nav nav-pills">
           <li class="nav-item">
             <a class="nav-link active" href="#">Active</a>
