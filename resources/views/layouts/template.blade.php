@@ -52,23 +52,34 @@
         @yield('content')
 
   <!-- Footer of my template page -->
-    <footer class="bg-secondary fixed-bottom" style="height: 30px;">
+    <footer class="bg-secondary fixed-bottom" style="height: 300px;">
       <div class="container">
-        <div class="row">
-
-          <div class="col-md-4">
-            <h5>Features</h5>
+        <div class="row"> 
+        
+          <div class="card border-dark mb-3 col-md-4" style="max-width: 18rem;">
+            <div class="card-header">Header</div>
+            <div class="card-body text-dark">
+              <h5 class="card-title">Dark card title</h5>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            </div>
           </div>
 
-          <div class="col-md-4">
-            <h5>Resources</h5>
+          <div class="card border-dark mb-3 col-md-4" style="max-width: 18rem;">
+            <div class="card-header">Header</div>
+            <div class="card-body text-dark">
+              <h5 class="card-title">Dark card title</h5>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            </div>
           </div>
 
-          <div class="col-md-4">
-            <h5>About</h5>
+          <div class="card border-dark mb-3 col-md-4" style="max-width: 18rem;">
+            <div class="card-header">Header</div>
+            <div class="card-body text-dark">
+              <h5 class="card-title">Dark card title</h5>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            </div>
           </div>
-          
-        </div>
+        </div>  
       </div>
 
     </footer>
