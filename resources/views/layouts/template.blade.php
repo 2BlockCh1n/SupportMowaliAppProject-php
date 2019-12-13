@@ -16,7 +16,7 @@
   </head>
   <body>
     
-   
+   <!-- header of my template page -->
     <header class="p-5 mb-5 bg-white text-dark">
       <div class="container">
         <div class="row">
@@ -27,26 +27,32 @@
         </div>
       </div>
     </header>
-    <div class="container" class=" mwl-nav">
-      <nav class="navbar navbar-light rounded" style="background-color: #e3f2fd;" >
-        <ul class="nav nav-pills">
-          <li class="nav-item">
-            <a class="nav-link active" href="#">Active</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-          </li>
-        </ul>
+
+  <!-- nav bar of my template page -->
+    <div class="container">
+      <nav class="navbar navbar-light  mwl-nav rounded" >
+        <button type="button" class="btn btn-outline-dark">Home</button>
+        <button type="button" class="btn btn-outline-dark">Informations</button>
+        <button type="button" class="btn btn-outline-dark">Members</button>
+        @yield('signin_session')
+        <form class="form-inline my-2 my-lg-0" style="margin-right: 2px;">
+          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
       <nav>
     </div>
+
+  <!-- Content of my others pages -->
       
-    <!--@yield('contenu')-->
+        @yield('contenu')
+
+  <!-- Footer of my template page -->
+    <footer>
+
+
+    </footer>
+
+
 
     <!-------------------------------------------------------------------------------------------------->
     <!-- BOOTSTRAP JQUERY AND POPPER CDN --------------------------------------------------------------->
