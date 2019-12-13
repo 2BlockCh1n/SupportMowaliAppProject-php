@@ -40,7 +40,7 @@
       <div class="form-row" style="margin-right: 0px;">
         <form class="form-inline">
           <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success my-2 my-sm-4" type="submit">Search</button>
+          <button class="btn btn-outline-success my-2 my-sm-0 mr-md-4" type="submit">Search</button>
         </form>
           @yield('signin_session')
       </div>
