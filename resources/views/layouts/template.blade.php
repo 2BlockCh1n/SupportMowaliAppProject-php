@@ -59,7 +59,7 @@
           <div class="row" style="padding-top: 20px; padding-bottom: 20px;">
 
             <div class="card text-white bg-dark col-md-3">
-              <div class="card-header">Header</div>
+              <div class="card-header"><h4>Who Join?</h4></div>
               <div class="card-body">
                 <h5 class="card-title"></h5>
                 <p class="card-text"></p>
@@ -70,7 +70,7 @@
             </div>
 
             <div class="card text-white bg-dark col-md-4">
-              <div class="card-header">Header</div>
+              <div class="card-header"><h4>About the App.</h4></div>
               <div class="card-body">
                 <h5 class="card-title"></h5>
                 <p class="card-text"></p>
@@ -81,7 +81,7 @@
             </div>
 
             <div class="card text-white bg-dark col-md-3">
-              <div class="card-header">Header</div>
+              <div class="card-header"><h4>Team Leader Word</h4></div>
               <div class="card-body">
                 <h5 class="card-title"></h5>
                 <p class="card-text"></p>
