@@ -4,7 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>SupportMowaliApp-@yield('title')</title>
+    <title>SupportMowaliApp - @yield('title')</title>
 
     <!-- Bootstrap CSS cdn -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" 
@@ -36,11 +36,11 @@
           <button type="button" class="btn btn-outline-dark">Informations</button>
           <button type="button" class="btn btn-outline-dark">Members</button>
         </div>
-        @yield('signin_session')
         <form class="form-inline my-2 my-lg-0" style="margin-right: 0px;">
           <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
           <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form>
+        @yield('signin_session')
       <nav>
     </div>
 
