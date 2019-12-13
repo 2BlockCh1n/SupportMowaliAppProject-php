@@ -9,7 +9,7 @@
 @endsection
 
 @section('content')
-    <div class="container bg-light shadow-lg p-3 mb-5 bg-white rounded">
+    <div class="container bg-light shadow-lg p-3 mb-5 bg-white rounded" style="height: 600px;">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
