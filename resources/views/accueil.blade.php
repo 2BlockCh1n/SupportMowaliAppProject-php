@@ -9,7 +9,8 @@
 @endsection
 
 @section('content')
-    <div class="row" style="background-image:{{ URL::asset('assets/images/afrique-phone.webp')}}">
-    
+    <div class="container bg-light shadow-lg p-3 mb-5 bg-white rounded" style="height: 1500px;">
+
+
     </div>
 @endsection
