@@ -52,7 +52,7 @@
         @yield('content')
 
   <!-- Footer of my template page -->
-    <footer class="bg-secondary" style="position: fixed;">
+    <footer class="bg-secondary" style="position: relative;">
 
         <div class="row">
           <div class="col-12 col-md">
