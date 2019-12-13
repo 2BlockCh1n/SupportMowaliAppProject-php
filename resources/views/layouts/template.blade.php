@@ -56,7 +56,7 @@
 
         <div class="container"> 
 
-          <div class="row" style="padding-top: 20px; padding-bottom: 20px;">
+          <div class="row nav-pills" style="padding-top: 20px; padding-bottom: 20px;">
 
             <div class="card text-white bg-dark col-md-3 mr-md-5 ">
               <div class="card-header">Header</div>
