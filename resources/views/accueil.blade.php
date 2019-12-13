@@ -9,7 +9,7 @@
 @endsection
 
 @section('content')
-    <div class="container bg-light shadow-lg p-3 mb-5 bg-white rounded" style="height: 1500px;">
+    <div class="container bg-light shadow-lg p-3 mb-5 bg-white rounded" style="height: 1500px; padding-bottom:30px;">
 
 
     </div>
