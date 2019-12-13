@@ -49,7 +49,7 @@
 
   <!-- Content of my others pages -->
       
-        @yield('contenu')
+        @yield('content')
 
   <!-- Footer of my template page -->
     <footer>
