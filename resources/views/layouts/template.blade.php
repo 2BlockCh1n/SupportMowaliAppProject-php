@@ -52,28 +52,24 @@
         @yield('content')
 
   <!-- Footer of my template page -->
-    <footer class="bg-secondary" style="position: absolute; background-attachement: fixed;">
+    <footer class="bg-secondary fixed-bottom" style="height: 30px;">
+      <div class="container">
+        <div class="row">
 
-      <div class="row">
+          <div class="col-md-4">
+            <h5>Features</h5>
+          </div>
 
-        <div class="col-12 col-md">
+          <div class="col-md-4">
+            <h5>Resources</h5>
+          </div>
 
+          <div class="col-md-4">
+            <h5>About</h5>
+          </div>
+          
         </div>
-
-        <div class="col-6 col-md">
-          <h5>Features</h5>
-        </div>
-
-        <div class="col-6 col-md">
-          <h5>Resources</h5>
-        </div>
-
-        <div class="col-6 col-md">
-          <h5>About</h5>
-        </div>
-        
       </div>
-
 
     </footer>
 
