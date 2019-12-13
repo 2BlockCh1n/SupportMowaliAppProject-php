@@ -30,7 +30,7 @@
 
   <!-- nav bar of my template page -->
     <div class="container">
-      <nav class="navbar navbar-light  mwl-nav rounded" >
+      <nav class="navbar navbar-light rounded" >
         <button type="button" class="btn btn-outline-dark">Home</button>
         <button type="button" class="btn btn-outline-dark">Informations</button>
         <button type="button" class="btn btn-outline-dark">Members</button>
