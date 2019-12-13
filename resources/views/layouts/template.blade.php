@@ -29,7 +29,7 @@
     </header>
 
   <!-- nav bar of my template page -->
-    <div class="container">
+    <div class="container" style="padding-bottom:30px;">
       <nav class="navbar navbar-light bg-light rounded" >
         <div class="btn-group-sm col-md-offset-4">
           <button type="button" class="btn btn-outline-dark">Home</button>
