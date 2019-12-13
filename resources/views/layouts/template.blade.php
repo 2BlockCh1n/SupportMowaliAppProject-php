@@ -63,10 +63,8 @@
               <div class="card-header"><h4>Who Join?</h4></div>
               <div class="card-body">
                 <p class="card-text">
-                  <ul>
-                    <li> First Man: xxxxxx@yyy.com </li>
-                    <li> Second Man: yyyyyy@yyy.com </li>
-                  </ul>
+                    - 1st Man: xxx@yyy.com <br/>
+                    - 2nd Man: yyy@yyy.com
                 </p>
               </div>
             </div>
@@ -89,7 +87,7 @@
             </div>
 
             <div class="card text-white bg-dark col-md-3">
-              <div class="card-header"><h4>Team Leader Words</h4></div>
+              <div class="card-header"><h4>Team Lead Word</h4></div>
               <div class="card-body">
                 <p class="card-text">
                   this is a test for team leader words and is not reals words
