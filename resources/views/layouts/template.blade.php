@@ -52,11 +52,11 @@
         @yield('content')
 
   <!-- Footer of my template page -->
-    <footer class="bg-secondary fixed-bottom" style="height: 300px;">
-      <div class="container">
+    <footer class="bg-secondary fixed-bottom">
+    
         <div class="row"> 
-        
-          <div class="card border-dark mb-3 col-md-4" style="max-width: 18rem;">
+
+          <div class="card border-dark mr-lg-5 col-md-4" style="max-width: 18rem;">
             <div class="card-header">Header</div>
             <div class="card-body text-dark">
               <h5 class="card-title">Dark card title</h5>
@@ -64,7 +64,7 @@
             </div>
           </div>
 
-          <div class="card border-dark mb-3 col-md-4" style="max-width: 18rem;">
+          <div class="card border-dark mr-lg-5 col-md-4" style="max-width: 18rem;">
             <div class="card-header">Header</div>
             <div class="card-body text-dark">
               <h5 class="card-title">Dark card title</h5>
@@ -80,7 +80,6 @@
             </div>
           </div>
         </div>  
-      </div>
 
     </footer>
 
