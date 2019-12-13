@@ -62,8 +62,15 @@
             <div class="card text-white bg-dark col-md-3">
               <div class="card-header"><h4>Who Join?</h4></div>
               <div class="card-body">
-                <h5 class="card-title"></h5>
-                <p class="card-text"></p>
+                <h5 class="card-title">Contacts</h5>
+                <p class="card-text">
+                  <ul>
+                    <li> First Man: xxxxxx@yyy.com </li>
+                    <li> Second Man: yyyyyy@yyy.com </li>
+                    <li> Third Man: zzzzzz@yyy.com </li>
+                    <li> Fourth Man: aaaaaa@yyy.com </li>
+                  </ul>
+                </p>
               </div>
             </div>
 
@@ -73,8 +80,12 @@
             <div class="card text-white bg-dark col-md-4">
               <div class="card-header"><h4>About the App.</h4></div>
               <div class="card-body">
-                <h5 class="card-title"></h5>
-                <p class="card-text"></p>
+                <h5 class="card-title">App Description</h5>
+                <p class="card-text">
+                    This application has for main objective to allow mowali support team 
+                    to have an idea on the mowali hub resources average load 
+                    each time someone will make the monitoring.
+                </p>
               </div>
             </div>
 
@@ -82,10 +93,12 @@
             </div>
 
             <div class="card text-white bg-dark col-md-3">
-              <div class="card-header"><h4>Team Leader Word</h4></div>
+              <div class="card-header"><h4>Team Leader Words</h4></div>
               <div class="card-body">
-                <h5 class="card-title"></h5>
-                <p class="card-text"></p>
+                <h5 class="card-title">Fayçel Korbi Words</h5>
+                <p class="card-text">
+                  this is a test for team leader words and is not reals words
+                </p>
               </div>
             </div>
            
