@@ -53,6 +53,7 @@
 
   <!-- Footer of my template page -->
     <footer class="bg-secondary fixed-bottom">
+        <small class="d-block mb-3 text-muted">&copy; Mowali 2017-2019</small>
 
         <div class="container"> 
 
@@ -87,7 +88,7 @@
                 <p class="card-text"></p>
               </div>
             </div>
-
+           
           </div>
 
         </div>  
