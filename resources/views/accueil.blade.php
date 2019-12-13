@@ -9,7 +9,7 @@
 @endsection
 
 @section('content')
-    <div class="row" style="background-image:url({{ URL::asset('assets/images/afrique-phone.webp')}})">
+    <div class="row" style="background-image:{{ URL::asset('assets/images/afrique-phone.webp')}}">
     
     </div>
 @endsection
