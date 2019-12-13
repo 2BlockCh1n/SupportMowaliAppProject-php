@@ -58,7 +58,7 @@
 
           <div class="row" style="padding-top: 20px; padding-bottom: 20px;">
 
-            <div class="card text-white bg-dark col-md-3" style="padding-right: 0px;">
+            <div class="card text-white bg-dark col-md-3">
               <div class="card-header">Header</div>
               <div class="card-body">
                 <h5 class="card-title"></h5>
@@ -66,7 +66,10 @@
               </div>
             </div>
 
-            <div class="card text-white bg-dark col-md-3 align-center">
+            <div class="col-md-1">
+            </div>
+
+            <div class="card text-white bg-dark col-md-4">
               <div class="card-header">Header</div>
               <div class="card-body">
                 <h5 class="card-title"></h5>
@@ -74,7 +77,10 @@
               </div>
             </div>
 
-            <div class="card text-white bg-dark col-md-3" style="padding-left: 0px;" >
+            <div class="col-md-1">
+            </div>
+
+            <div class="card text-white bg-dark col-md-3">
               <div class="card-header">Header</div>
               <div class="card-body">
                 <h5 class="card-title"></h5>
