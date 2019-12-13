@@ -53,7 +53,7 @@
 
   <!-- Footer of my template page -->
     <footer class="bg-secondary fixed-bottom">
-        <small class="d-block mb-3 text-muted">&copy; Mowali 2017-2019</small>
+        <div class="text-center text-primary"><h5>&copy; Mowali 2017-2019</h5></div>
 
         <div class="container"> 
 
