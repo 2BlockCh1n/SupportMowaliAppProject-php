@@ -16,35 +16,35 @@
             <div class="carousel-inner">
 
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="{{ URL::asset('assets/images/image7.png')}}" alt="Un tigre">
+                    <img class="d-block w-100" src="{{ URL::asset('assets/images/image7.PNG')}}" alt="Un tigre">
                 </div>
                 
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="{{ URL::asset('assets/images/image1.png')}}" alt="Un tigre">
+                    <img class="d-block w-100" src="{{ URL::asset('assets/images/image1.PNG')}}" alt="Un tigre">
                 </div>
 
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="{{ URL::asset('assets/images/image2.png')}}" alt="Un tigre">
+                    <img class="d-block w-100" src="{{ URL::asset('assets/images/image2.PNG')}}" alt="Un tigre">
                 </div>
 
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="{{ URL::asset('assets/images/image3.png')}}" alt="Un tigre">
+                    <img class="d-block w-100" src="{{ URL::asset('assets/images/image3.PNG')}}" alt="Un tigre">
                 </div>
 
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="{{ URL::asset('assets/images/image4.png')}}" alt="Un tigre">
+                    <img class="d-block w-100" src="{{ URL::asset('assets/images/image4.PNG')}}" alt="Un tigre">
                 </div>
 
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="{{ URL::asset('assets/images/image5.png')}}" alt="Un tigre">
+                    <img class="d-block w-100" src="{{ URL::asset('assets/images/image5.PNG')}}" alt="Un tigre">
                 </div>
 
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="{{ URL::asset('assets/images/image6.png')}}" alt="Un tigre">
+                    <img class="d-block w-100" src="{{ URL::asset('assets/images/image6.PNG')}}" alt="Un tigre">
                 </div>
 
             </div>
-            
+
         </div>
 
     </div>
