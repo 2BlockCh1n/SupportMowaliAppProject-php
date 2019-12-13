@@ -37,7 +37,7 @@
           <button type="button" class="btn btn-outline-dark">Members</button>
         </div>
       
-      <div class="form-group" style="margin-right: 0px;">
+      <div class="form-row" style="margin-right: 0px;">
         <form class="form-inline">
           <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
           <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
