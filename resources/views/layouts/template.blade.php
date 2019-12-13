@@ -39,7 +39,7 @@
       
       <div class="btn-group-sm" style="margin-right: 0px;">
         <form class="form-inline my-2 my-lg-0" style="margin-right: 0px;">
-          <input class=" col-sm-offset-3 form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <input class=" col-sm-offset-2 form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
           <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form>
         @yield('signin_session')
