@@ -31,7 +31,7 @@
   <!-- nav bar of my template page -->
     <div class="container">
       <nav class="navbar navbar-light bg-light rounded" >
-        <div class="btn-group-sm">
+        <div class="btn-group-sm col-md-offset-4">
           <button type="button" class="btn btn-outline-dark">Home</button>
           <button type="button" class="btn btn-outline-dark">Informations</button>
           <button type="button" class="btn btn-outline-dark">Members</button>
@@ -40,7 +40,7 @@
       <div class="form-row" style="margin-right: 0px;">
         <form class="form-inline">
           <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+          <button class="btn btn-outline-success my-2 my-sm-4" type="submit">Search</button>
         </form>
           @yield('signin_session')
       </div>
