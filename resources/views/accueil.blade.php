@@ -56,7 +56,7 @@
                 </div>
 
                 <!-- On met en place les controle précédent / suivant-->
-                <div style="padding: 10px;">
+                <div style="padding-bottom: 10px;">
                     <a href="#option" class="carousel-control-prev" data-slide="prev">
                         <!-- on met en place l'icone-->
                         <span class="carousel-control-prev-icon"><span>
