@@ -21,7 +21,13 @@
                 <li data-target="#option" data-slide-to="3"></li>
                 <li data-target="#option" data-slide-to="4"></li>
                 <li data-target="#option" data-slide-to="5"></li>
-                <li data-target="#option" data-slide-to="6"></li>    
+                <li data-target="#option" data-slide-to="6"></li> 
+                <li data-target="#option" data-slide-to="7"></li> 
+                <li data-target="#option" data-slide-to="8"></li> 
+                <li data-target="#option" data-slide-to="9"></li> 
+                <li data-target="#option" data-slide-to="10"></li> 
+                <li data-target="#option" data-slide-to="11"></li> 
+                <li data-target="#option" data-slide-to="12"></li>    
             </ul>
 
             <!-- Mise en place du daporama d'image -->
@@ -54,6 +60,31 @@
                 <div class="carousel-item">
                     <img src="{{ URL::asset('assets/images/image6.PNG')}}" alt="mowali-images"/>
                 </div>
+
+                <div class="carousel-item">
+                    <img src="{{ URL::asset('assets/images/image1.jpg')}}" alt="mowali-images"/>
+                </div>
+
+                <div class="carousel-item">
+                    <img src="{{ URL::asset('assets/images/image2.jpg')}}" alt="mowali-images"/>
+                </div>
+
+                <div class="carousel-item">
+                    <img src="{{ URL::asset('assets/images/image3.jpg')}}" alt="mowali-images"/>
+                </div>
+
+                <div class="carousel-item">
+                    <img src="{{ URL::asset('assets/images/image4.jpg')}}" alt="mowali-images"/>
+                </div>
+                
+                <div class="carousel-item">
+                    <img src="{{ URL::asset('assets/images/image5.jpg')}}" alt="mowali-images"/>
+                </div>
+
+                <div class="carousel-item">
+                    <img src="{{ URL::asset('assets/images/image6.jpg')}}" alt="mowali-images"/>
+                </div>
+
 
                 <!-- On met en place les controle précédent / suivant-->
                 <div class="container row">
