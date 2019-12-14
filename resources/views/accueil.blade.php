@@ -74,7 +74,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <img src="{{ URL::asset('assets/images/image4.jpg')}}" alt="mowali-images"/>
+                    <img src="{{ URL::asset('assets/images/image4.webp')}}" alt="mowali-images"/>
                 </div>
                 
                 <div class="carousel-item">
