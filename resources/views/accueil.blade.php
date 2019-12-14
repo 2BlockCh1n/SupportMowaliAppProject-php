@@ -56,14 +56,16 @@
                 </div>
 
                 <!-- On met en place les controle précédent / suivant-->
-                <a href="#option" class="carousel-control-prev" data-slide="prev">
-                    <!-- on met en place l'icone-->
-                    <span class="carousel-control-prev-icon"><span>
-                </a>
+                <div style="padding: 10px;">
+                    <a href="#option" class="carousel-control-prev" data-slide="prev">
+                        <!-- on met en place l'icone-->
+                        <span class="carousel-control-prev-icon"><span>
+                    </a>
 
-                <a href="#option" class="carousel-control-next" data-slide="next">
-                    <span class="carousel-control-next-icon"></span>
-                </a>
+                    <a href="#option" class="carousel-control-next" data-slide="next">
+                        <span class="carousel-control-next-icon"></span>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
