@@ -52,7 +52,7 @@
         @yield('content')
 
   <!-- Footer of my template page -->
-    <footer class="bg-secondary fixed-bottom">
+    <footer class="bg-secondary">
         <div class="text-center text-white"><h5>&copy; Mowali 2017-2019</h5></div><hr>
 
         <div class="container"> 
