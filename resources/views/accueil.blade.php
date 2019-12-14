@@ -9,12 +9,12 @@
 @endsection
 
 @section('content')
-    <div class="container" style="height: 800px;">
+    <div class="container" style="height: 600px;">
         <!-- Creation du div qui englobera tout le carousel -->
         <div id="option" class="carousel slide" data-ride="carousel">
 
             <!-- Ajout des indicateurs de pagination en bas de page -->
-            <ul class="carousel-indicators">
+            <ul class="carousel-indicators" style="padding-bottom:10px;">
                 <li data-target="#option" data-slide-to="0" class="active"></li>
                 <li data-target="#option" data-slide-to="1"></li>
                 <li data-target="#option" data-slide-to="2"></li>
@@ -56,12 +56,12 @@
                 </div>
 
                 <!-- On met en place les controle précédent / suivant-->
-                <a href="#option" class="carousel-control-prev" data-slide="prev">
+                <a href="#option" class="carousel-control-prev" data-slide="prev" style="padding-bottom:10px;">
                     <!-- on met en place l'icone-->
                     <span class="carousel-control-prev-icon"><span>
                 </a>
 
-                <a href="#option" class="carousel-control-next" data-slide="next">
+                <a href="#option" class="carousel-control-next" data-slide="next" style="padding-bottom:10px;">
                     <span class="carousel-control-next-icon"></span>
                 </a>
             </div>
