@@ -9,7 +9,7 @@
 @endsection
 
 @section('content')
-    <div class="container" style="height: 500px; padding-top:10px;">
+    <div class="container" style="height: 600px; padding-top:10px;">
         <!-- Creation du div qui englobera tout le carousel -->
         <div id="option" class="carousel slide" data-ride="carousel">
 
