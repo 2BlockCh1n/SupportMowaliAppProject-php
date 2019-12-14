@@ -25,7 +25,7 @@
             </ul>
 
             <!-- Mise en place du daporama d'image -->
-            <div class="carousel-iner" style="padding-top:10px;">
+            <div class="carousel-iner" style="padding-top:10px; padding-bottom: 10px;">
                 <!-- On met en place les éléments du diaporama -->
                 <div class="carousel-item active">
                     <img src="{{ URL::asset('assets/images/image7.PNG')}}" alt="mowali-images"/>
@@ -56,7 +56,7 @@
                 </div>
 
                 <!-- On met en place les controle précédent / suivant-->
-                <div style="padding-bottom: 10px;">
+                <div style="padding-bottom: 10px; padding-top: 10px;">
                     <a href="#option" class="carousel-control-prev" data-slide="prev">
                         <!-- on met en place l'icone-->
                         <span class="carousel-control-prev-icon"><span>
