@@ -22,7 +22,8 @@
                 <li data-target="#option" data-slide-to="4"></li>
                 <li data-target="#option" data-slide-to="5"></li>
                 <li data-target="#option" data-slide-to="6"></li> 
-                <li data-target="#option" data-slide-to="7"></li>    
+                <li data-target="#option" data-slide-to="7"></li>
+                <li data-target="#option" data-slide-to="8"></li>    
             </ul>
 
             <!-- Mise en place du daporama d'image -->
@@ -58,6 +59,10 @@
 
                 <div class="carousel-item">
                     <img src="{{ URL::asset('assets/images/image8.PNG')}}" alt="mowali-images"/>
+                </div>
+
+                <div class="carousel-item">
+                    <img src="{{ URL::asset('assets/images/image9.PNG')}}" alt="mowali-images"/>
                 </div>
 
 
