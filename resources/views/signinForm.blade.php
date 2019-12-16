@@ -6,7 +6,7 @@
 
 @section('content')
  
-    <form class="container bg-info rounded" action="authenticationSuccess" method="POST" style="height: 300px; padding-top: 100px;">
+    <form class="container bg-info rounded" action="authenticationSuccess" method="POST" style="height: 300px; padding-top: 100px; padding-left: 50px; padding-right: 50px;">
         <div>
             <h2>Sign In</h2> <hr/>
         </div>
