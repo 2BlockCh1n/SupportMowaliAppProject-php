@@ -6,7 +6,7 @@
 
 @section('content')
  
-    <form class="container bg-info rounded" action="authenticationSuccess" method="POST">
+    <form class="container bg-info rounded" action="authenticationSuccess" method="POST" style="height: 300px; padding-top: 100px;">
         <div>
             <h2>Sign In</h2> <hr/>
         </div>
@@ -21,7 +21,7 @@
             <input type="password" class="form-control" id="password" placeholder="your password">
         </div>
 
-        <button type="submit" class="btn btn-primary">Submit</button>
+        <button type="submit" class="btn btn-primary">Submit</button><hr/><hr/>
     </form>
 
 
