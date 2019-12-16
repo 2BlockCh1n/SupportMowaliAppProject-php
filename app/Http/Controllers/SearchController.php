@@ -8,5 +8,7 @@ class SearchController extends Controller
 {
 	//
 	public function getSearch(){
+
+		return view('search');
 	}
 }

@@ -7,6 +7,8 @@ use Illuminate\Http\Request;
 class SigninFormController extends Controller
 {
 	//
-	public function getSigninForm(){
+	public function getSigninForm() {
+
+		return view('signinForm');
 	}
 }
