@@ -32,15 +32,15 @@
     <div class="container" style="padding-bottom:30px;">
       <nav class="navbar navbar-light bg-light rounded" >
         <div class="btn-group-sm col-md-offset-4">
-          <button type="button" class="btn btn-outline-dark"><a href="/">Home</a></button>
-          <button type="button" class="btn btn-outline-dark"><a href="informations">Informations</a></button>
-          <button type="button" class="btn btn-outline-dark"><a href="members">Members</a></button>
+          <a href="/"><button type="button" class="btn btn-outline-dark">Home</button></a>
+          <a href="informations"><button type="button" class="btn btn-outline-dark">Informations</button></a>
+          <a href="members"><button type="button" class="btn btn-outline-dark">Members</button></a>
         </div>
       
       <div class="form-row" style="right: 0px;">
         <form class="form-inline">
           <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success my-2 my-sm-0 mr-md-4" type="submit"><a href="search">Search</a></button>
+          <a href="search"><button class="btn btn-outline-success my-2 my-sm-0 mr-md-4" type="submit">Search</button></a>
         </form>
           @yield('signin_session')
       </div>

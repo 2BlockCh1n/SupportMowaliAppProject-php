@@ -5,7 +5,7 @@
 @endsection
 
 @section('signin_session')
-    <button class="btn btn-outline-primary my-2 my-sm-0" type="submit"><a href="signinForm">Sign in</a></button>
+    <a href="signinForm"><button class="btn btn-outline-primary my-2 my-sm-0" type="submit">Sign in</button></a>
 @endsection
 
 @section('content')
