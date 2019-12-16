@@ -24,6 +24,7 @@
 
             <button type="submit" class="btn btn-primary">Submit</button><hr/><hr/>
         </form>
+    </div>
 
 
 @endsection
