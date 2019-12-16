@@ -6,7 +6,7 @@
 
 @section('content')
     
-    <div class="container mwl-form rounded" style="height: 300px; padding-top: 100px; padding-left: 50px; padding-right: 50px;">
+    <div class="row .bg-info rounded" style="height: 300px; padding-top: 100px; padding-left: 50px; padding-right: 50px;">
         <form action="authenticationSuccess" method="POST" >
             <div>
                 <h2>Sign In</h2> <hr/>
