@@ -32,9 +32,9 @@
     <div class="container" style="padding-bottom:30px;">
       <nav class="navbar navbar-light bg-light rounded" >
         <div class="btn-group-sm col-md-offset-4">
-          <button type="button" class="btn btn-outline-dark">Home</button>
-          <button type="button" class="btn btn-outline-dark">Informations</button>
-          <button type="button" class="btn btn-outline-dark">Members</button>
+          <button type="button" class="btn btn-outline-dark"><a href="accueil">Home</a></button>
+          <button type="button" class="btn btn-outline-dark"><a href="informations">Informations</a></button>
+          <button type="button" class="btn btn-outline-dark"><a href="members">Members</a></button>
         </div>
       
       <div class="form-row" style="right: 0px;">
