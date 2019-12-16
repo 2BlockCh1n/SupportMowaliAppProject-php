@@ -55,7 +55,7 @@
   <!-- Footer of my template page -->
     </div>
     <footer class="bg-secondary">
-        <div class="text-center text-white"><h5>&copy; Mowali 2017-2019</h5></div><hr>
+        <div class="text-center text-white"><h5>&copy; Mowali 2018-2019</h5></div><hr>
 
         <div class="container"> 
 
