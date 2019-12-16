@@ -6,7 +6,7 @@
 
 @section('content')
     
-    <div class="container bg-info rounded" style="height: 500px; margin-top: 100px; margin-left: 25px; margin-right: 25px;">
+    <div class="container bg-info rounded" style="height: 400px; margin-top: 40px;">
         <form class=" "action="authenticationSuccess" method="POST" >
                 <div>
                     <h2>Sign In</h2> <hr/>
