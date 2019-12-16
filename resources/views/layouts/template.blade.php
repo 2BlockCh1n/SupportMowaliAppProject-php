@@ -34,7 +34,7 @@
         <div class="btn-group-sm col-md-offset-4">
           <a href="/"><button type="button" class="btn btn-outline-dark">Home</button></a>
           <a href="informations"><button type="button" class="btn btn-outline-dark">Informations</button></a>
-          <a href="members"><button type="button" class="btn btn-outline-dark">Members</button></a>
+          <a href="members"><button type="button" class="btn btn-outline-dark">Team</button></a>
         </div>
       
       <div class="form-row" style="right: 0px;">
