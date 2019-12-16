@@ -6,8 +6,9 @@
 
 @section('content')
     
-    <div class="row bg-info rounded" style="height: 300px; padding-top: 100px; padding-left: 50px; padding-right: 50px;">
-        <form action="authenticationSuccess" method="POST" >
+    
+    <form class=" "action="authenticationSuccess" method="POST" >
+        <div class="container bg-info rounded" style="height: 300px; padding-top: 100px; padding-left: 50px; padding-right: 50px;">
             <div>
                 <h2>Sign In</h2> <hr/>
             </div>
@@ -23,8 +24,9 @@
             </div><hr/><hr/>
 
             <button type="submit" class="btn btn-primary">Submit</button><hr/><hr/>
-        </form>
-    </div>
+    
+        </div>
+    </form>
 
 
 @endsection
