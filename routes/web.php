@@ -13,10 +13,10 @@
 
 Route::get('/', 'AccueilController@getHome');
 
-Route::get('/', 'InformationsController@getInformations');
+Route::get('informations', 'InformationsController@getInformations');
 
-Route::get('/', 'MembersController@getMembers');
+Route::get('members', 'MembersController@getMembers');
 
-Route::get('/', 'SearchController@getSearch');
+Route::get('search', 'SearchController@getSearch');
 
-Route::get('/', 'SigninFormController@getSigninForm');
+Route::get('signinForm', 'SigninFormController@getSigninForm');
