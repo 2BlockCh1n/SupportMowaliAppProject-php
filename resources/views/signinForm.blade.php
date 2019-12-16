@@ -6,9 +6,9 @@
 
 @section('content')
  
-    <form class="container bg-info align-middle rounded" action="authenticationSuccess" method="POST" style="width: 200px;">
+    <form class="container bg-info rounded" action="authenticationSuccess" method="POST">
         <div>
-            Sign In <hr/>
+            <h2>Sign In</h2> <hr/>
         </div>
 
         <div class="form-group">
