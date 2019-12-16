@@ -6,3 +6,7 @@ body {
 .shift-logo {
     padding-left: 30px;
 }
+
+.mwl-form {
+    background-color: teal;
+}
