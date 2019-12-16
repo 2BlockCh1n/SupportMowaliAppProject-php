@@ -47,11 +47,13 @@
       <nav>
     </div>
 
+    <div class="container bg-white rounded" style="height: 600px; padding-top:10px;">
   <!-- Content of my others pages -->
       
         @yield('content')
 
   <!-- Footer of my template page -->
+    </div>
     <footer class="bg-secondary">
         <div class="text-center text-white"><h5>&copy; Mowali 2017-2019</h5></div><hr>
 

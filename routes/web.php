@@ -12,3 +12,11 @@
 */
 
 Route::get('/', 'AccueilController@getHome');
+
+Route::get('/', 'InformationsController@getInformations');
+
+Route::get('/', 'MembersController@getMembers');
+
+Route::get('/', 'SearchController@getSearch');
+
+Route::get('/', 'SigninFormController@getSigninForm');
