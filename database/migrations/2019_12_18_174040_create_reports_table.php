@@ -17,7 +17,6 @@ class CreateReportsTable extends Migration
             $table->bigIncrements('id');
             $table->dateTimeTZ('created_date', 2);
             $table->dateTimeTZ('updated_date', 2);
-            $table->primary('id');
             $table->engine = 'InnoDB';
         });
     }
