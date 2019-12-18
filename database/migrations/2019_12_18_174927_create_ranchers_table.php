@@ -15,7 +15,13 @@ class CreateRanchersTable extends Migration
     {
         Schema::create('ranchers', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->timestamps();
+            $table->integer('cpu');
+            $table->integer('disk');
+            $table->integer('ram');
+            $table->string('node_name');
+            $table->unsignedBigInteger('report_id');
+            $table->foreign('report_id')->references('id')->on('reports')->onDelete('cascade');
+            $table->engine ='InnoDB';
         });
     }
 

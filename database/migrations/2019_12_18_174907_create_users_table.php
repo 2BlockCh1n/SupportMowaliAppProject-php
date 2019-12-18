@@ -15,7 +15,12 @@ class CreateUsersTable extends Migration
     {
         Schema::create('users', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->timestamps();
+            $table->string('username', 40);
+            $table->string('password', 20);
+            $table->unsignedBigInteger('report_id');
+            $table->foreign('report_id')->references('id')->on('reports');
+            $table->engine ='InnoDB';
+
         });
     }
 

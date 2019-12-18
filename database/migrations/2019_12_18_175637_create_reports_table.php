@@ -15,7 +15,10 @@ class CreateReportsTable extends Migration
     {
         Schema::create('reports', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->timestamps();
+            $table->dateTimeTZ('created_date', 2);
+            $table->dateTimeTZ('updated_date', 2);
+            $table->primary('id');
+            $table->engine = 'InnoDB';
         });
     }
 
